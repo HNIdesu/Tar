@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>HNIdesu.Compression.Tar</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BinaryOperator">
+      <HintPath>..\..\BinaryOperator\bin\Debug\net6.0-windows\BinaryOperator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
